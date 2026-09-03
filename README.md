@@ -1,91 +1,92 @@
-# <p align="center">⚠️ Bem-vindo(a) ☕🤓💻🔎 ⚠️
+## <p align="left"> :pushpin: Conheça-me:
 
-### <p align="center">♾️ **“Mente criativa em expansão com foco em automação”** ♾️ <br><br>
+😉 Que satisfação gigantesca te ver por aqui!
 
-#### <p align="center">Vamos nos conectar? Será um prazer tê-lo em minha rede!<br><br>
+• Atuo com foco na qualidade de software, prevenção de falhas e melhoria contínua, contribuindo para que entregas aconteçam com mais segurança e previsibilidade.
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/wesley-oliveira-514235b6/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https:/www.linkedin.com/in/wesley-oliveira-514235b6/"/>
-    <!-- <a href="https://github.com/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-GitHub.Io-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://github.com/brunogsiq/brunogsiq.github.io]"/> 
-    <a href="https://linktr.ee/brunogsiq" target="_blank"><img src="https://img.shields.io/badge/-Linktree-6610F2?style=for-the-badge&logo=Linktree&logoColor=FFFFFF&link=[https://linktr.ee/brunogsiq]"/><br><br> -->
+• Acredito que qualidade não deve ser responsabilidade exclusiva do QA, mas sim uma prática compartilhada entre Negócio, Produto, Design e Desenvolvimento.
 
-## <p align="left"> :pushpin: Objetivo:
--  Compartilhar projetos de estudos e lhe ajudar. 
--  Fique a vontade para realizar clones e propor melhorias.
--  Toda contribuição é bem vinda.
--  Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
+• Minha atuação é baseada nos princípios de Shift-Left Testing, buscando identificar riscos e oportunidades de melhoria nas fases iniciais do ciclo de desenvolvimento.
 
-## <p align="left">  :pushpin:  Conheça-me:
-
-😉 Que satisfação gigantesca te vê por aqui !
-
-• Atuo com foco na prevenção de bugs e conscientização da cultura de qualidade em equipes de ágeis.
-
-• Acredito que "prevenir é melhor do que reportar", por isso minha atuação é orientada ao shift-left testing, quanto antes iniciarmos, maior a probababilidade de sucesso para o produto
-
-• Embasado sobre alguns dos princípios de testes, sempre será preciso reimaginar os teste para garintir que não haverão novas falhas no sistema, lembrando que testar apenas apresenta falhas e não garante sua ausência, com a atuação do QA antecipada, novos investimentos poderão ser realizados
-
-• Não existe automação sem testes manuais, para ser eficaz, será necessário estar alinhado constantemente com a área de negócio, produto, design e desenvolvimento para garantirmos que os principais fluxos estão protegidos através do fluxo continuo de integração e entregas sem risco
+• Entendo que a automação é uma ferramenta estratégica para aumentar a confiabilidade das entregas, mas seu sucesso depende de uma boa estratégia de testes e do conhecimento profundo do negócio.
 
 🐞 Atuação como QA<br>
-• Shif-Lefting Testes<br>
-• Elaboração de cenários com BDD (Gherkin)<br>
-• Testes automatizados e manuais<br> 
-• Planejamento, Estimativa, Documentação<br>
-• Execução e Evidenciamento<br>
-• Report e Acompanhamento de bugs<br>
-• Proposição de melhoria contínua<br>
+• Elaboração de cenários utilizando BDD (Gherkin)<br>
+• Planejamento e execução de testes manuais e automatizados<br>
+• Levantamento e análise de requisitos<br>
+• Evidenciação e documentação de testes<br>
+• Report e acompanhamento de bugs<br>
+• Homologação de funcionalidades<br>
+• Apoio à cultura de qualidade e melhoria contínua<br>
 
-🌐 Atuação em diferentes níveis de teste<br>
-• Teste de Integração<br> 
-• Testes de sistemas<br>
-• Testes de aceitação<br>
+🌐 Conhecimentos em diferentes níveis de teste<br>
+• Testes Unitários<br>
+• Testes de Integração<br>
+• Testes de Sistema<br>
+• Testes de Aceitação<br>
+• Testes End-to-End (E2E)<br>
 
 🎯 Estratégias de Teste<br>
+• Shift-Left Testing<br>
+• BDD (Behavior Driven Development)<br>
 • Baseada em requisitos e riscos<br>
-• Baseada em testes exploratórios<br>
 • Baseada na pirâmide de testes<br>
+• Testes exploratórios<br>
 
-
-🔍 Tipos de Testes<br>
+🔍 Tipos de Teste<br>
 • Funcionais<br>
+• Não Funcionais<br>
 • Exploratório<br>
 • Regressão<br>
 • Usabilidade<br>
 • Aceitação<br>
 • Acessibilidade<br>
 
-🛠️ Testes em aplicações Web - Back-End - Mobile<br>
-• Automatizadas e manuais<br>
+🛠️ Automação de Testes WEB, APIs e SAP<br>
+• Testes manuais e automatizados<br>
+• Validação de integrações<br>
+• Homologação de processos SAP<br>
+• Validação de regras de negócio<br>
+• Monitoramento e análise de eventos<br>
 
-🌐 Framework de Automação Fron-End e Back-End<br>
-• PlayWright<br>
+🌐 Ferramentas para Testes e APIs<br>
+• Postman<br>
+• Insomnia<br>
 • Robot Framework<br>
-• Postman<br><br>
+• Playwright<br>
 
+☁️ Cloud e Banco de Dados<br>
+• AWS<br>
+• Google Cloud Platform (GCP)<br>
+• PostgreSQL<br>
+
+🤖 Inteligência Artificial<br>
+• Criação de agentes IA<br>
+• Engenharia de Prompt<br>
+• Automações assistidas por IA<br>
+• Aplicação de IA em atividades de qualidade e produtividade<br>
+
+🎨 UX/UI<br>
+• Wireframes de baixa, média e alta fidelidade<br>
+• Prototipação<br>
+• Figma<br>
+• Design Thinking<br>
+• Personas<br>
+• Pesquisa qualitativa e quantitativa<br>
 
 🛠️ Gerenciamento de Projetos<br>
-• Azure Devops - Jira - Trello<br>
-• Test Plans - Zephyr - QAlity Plus<br>
+• Azure DevOps<br>
+• Jira<br>
+• Trello<br>
 
 📚 Outros conhecimentos<br>
-• Versionamento de Códigos com GIT<br>
-• Metodologias ágeis: Scrum e Kanban<br>
+• Versionamento de código com Git e GitHub<br>
+• Criação de Branches e Pull Requests<br>
+• Scrum e Kanban<br>
+• Documentação técnica<br>
 
-👀 Chegou até aqui? <br>
+👀 Chegou até aqui?<br>
 
-🍀 Prazer vê-lo aqui e muito obrigado!<br><br>
+☕ Que tal mais um café?
 
-<div align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
-    <img align="center" src="https://skillicons.dev/icons?i=postman"/>
-    <br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=git"/>
-    <img align="center" src="https://skillicons.dev/icons?i=github"/>
-    <br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=azure"/>
-    <br><br>
-</div><br>
-
-
-<div align="center">
+🍀 Prazer em receber sua visita e muito obrigado!<br><br>
