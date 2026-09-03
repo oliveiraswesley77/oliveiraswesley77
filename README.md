@@ -10,7 +10,7 @@
 
 ## <p align="left"> :pushpin: Satisfação, eu sou Wesley:
 
-😉 Que satisfação gigantesca te ver por aqui!
+😉 Que honra te ver por aqui!
 
 Sou Analista de Automação de Testes com experiência em qualidade de software, automação, testes funcionais, integrações e melhoria contínua.
 
