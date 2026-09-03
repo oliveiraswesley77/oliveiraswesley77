@@ -1,59 +1,138 @@
-# <p align="center">🚀 Wesley Silva Oliveira</p>
+# <p align="center">⚠️ Bem-vindo(a) ☕🚀🧪 ⚠️</p>
 
-### <p align="center">💡 Quality Assurance | Test Automation | UX/UI | Inteligência Artificial</p>
+### <p align="center">♾️ "Qualidade, Automação e Evolução Contínua" ♾️</p>
 
-### <p align="center">"Qualidade não é apenas encontrar bugs, é prevenir falhas antes que elas aconteçam."</p>
-
----
-
-## 🌎 Conecte-se comigo
+#### <p align="center">Vamos nos conectar? Será um prazer ter você em minha rede profissional.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wesley-oliveira-514235b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?the-badge&logo=linkedin&logoColor=white
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor/a>
 </p>
 
 ---
 
-# 👋 Sobre mim
+## :pushpin: Objetivo
 
-Sou Analista de Automação de Testes com experiência em qualidade de software, automação, testes funcionais, integrações e melhoria contínua.
-
-Minha atuação é baseada na cultura de qualidade, colaboração entre times e prevenção de defeitos através de estratégias de testes eficientes.
-
-Tenho experiência trabalhando com aplicações Web, APIs, SAP e processos corporativos complexos, participando desde a definição dos cenários até a validação das entregas em produção.
-
----
-
-# 🎯 Principais Competências
-
-## 🧪 BDD (Behavior Driven Development)
-
-- Escrita de cenários utilizando Gherkin
-- Definição de critérios de aceitação
-- Tradução das regras de negócio em cenários testáveis
-- Colaboração entre QA, Produto e Desenvolvimento
+- Compartilhar projetos, estudos e conhecimentos.
+- Demonstrar minha evolução profissional.
+- Trocar experiências com a comunidade de tecnologia.
+- Contribuir com conteúdos relacionados a Qualidade de Software, Automação, UX/UI e Inteligência Artificial.
 
 ---
 
-## 🔍 Tipos de Teste
+## :pushpin: Conheça-me
 
-Conhecimento e aplicação de:
+☕ Aceita um café?
 
-### Funcionais
-- Teste de Sistema
-- Teste de Integração
-- Teste de Regressão
-- Teste Exploratório
-- Teste de Aceitação
+Sou Analista de Automação de Testes com foco em qualidade de software, prevenção de falhas e melhoria contínua.
 
-### Não Funcionais
+Minha atuação é baseada na premissa de que qualidade deve ser construída durante todo o ciclo de desenvolvimento e não apenas validada ao final.
 
-- Usabilidade
-- Acessibilidade
-- Performance (conceitos)
-- Segurança (conceitos)
+Acredito que equipes de alta performance dependem da colaboração entre Produto, Negócio, Design, Desenvolvimento e Qualidade para entregar soluções seguras, escaláveis e confiáveis.
+
+---
+
+## 🐞 Atuação como QA
+
+• Levantamento e análise de requisitos
+
+• Elaboração de cenários utilizando BDD (Gherkin)
+
+• Testes manuais e automatizados
+
+• Planejamento de testes
+
+• Execução e evidenciamento
+
+• Report e acompanhamento de bugs
+
+• Homologação de funcionalidades
+
+• Apoio à cultura de qualidade
+
+• Documentação de testes e incidentes
+
+---
+
+## 🌐 Conhecimentos em Testes
+
+### Níveis de Teste
+
+• Testes Unitários
+
+• Testes de Integração
+
+• Testes de Sistema
+
+• Testes de Aceitação
+
+• Testes End-to-End (E2E)
+
+---
+
+### Tipos de Teste
+
+• Funcionais
+
+• Não Funcionais
+
+• Exploratório
+
+• Regressão
+
+• Usabilidade
+
+• Aceitação
+
+• Acessibilidade
+
+---
+
+## 🎯 Estratégias e Fundamentos
+
+• Shift Left Testing
+
+• BDD (Behavior Driven Development)
+
+• Pirâmide de Testes
+
+• Testes Baseados em Riscos
+
+• Testes Baseados em Requisitos
+
+• Melhoria Contínua
+
+---
+
+## 🤖 Automação de Testes
+
+### WEB
+
+• Automação de fluxos críticos
+
+• Validação de regras de negócio
+
+• Execução de testes funcionais
+
+### SAP
+
+• Validação de processos corporativos
+
+• Testes integrados
+
+• Homologações e análise de impactos
+
+### APIs
+
+• Postman
+
+• Insomnia
+
+• Validação de contratos
+
+• Testes funcionais
+
+• Integrações
 
 ---
 
@@ -61,147 +140,121 @@ Conhecimento e aplicação de:
 
 ### Abertura de Bugs
 
-- Investigação de falhas
-- Evidências detalhadas
-- Análise de impacto
-- Criação de documentação técnica
+• Investigação de falhas
 
-### Acompanhamento de Bugs
+• Coleta de evidências
 
-- Monitoramento de correções
-- Validação de ajustes
-- Follow-up com times de desenvolvimento
-- Controle de incidentes e documentação
+• Avaliação de impacto
 
----
+• Documentação técnica
 
-## 🏗️ Pirâmide de Testes
+### Acompanhamento
 
-Conhecimento sobre:
+• Revalidação de correções
 
-- Testes Unitários
-- Testes de Integração
-- Testes End-to-End (E2E)
-- Estratégias para redução de custo de manutenção
-- Cobertura inteligente de testes
+• Monitoramento de incidentes
+
+• Alinhamentos com times de desenvolvimento
+
+• Follow-up de correções
 
 ---
 
-# 🤖 Automação de Testes
+## ☁️ Cloud e Banco de Dados
 
-## Web
+### Cloud
 
-- Testes automatizados
-- Validação de fluxos críticos
-- Integração contínua
+• AWS
 
-## SAP
+• Google Cloud Platform (GCP)
 
-- Validação de processos integrados
-- Testes funcionais
-- Homologações de negócio
+### Banco de Dados
+
+• PostgreSQL
 
 ---
 
-# 🌐 Git & GitHub
+## 🎨 UX/UI
 
-Experiência com:
+• Wireframes de baixa, média e alta fidelidade
 
-- Criação de Branches
-- Pull Requests (PR)
-- Code Review
-- Versionamento de código
-- Criação e organização de repositórios
-- Estratégias de Branching
+• Prototipação
 
----
+• Design Thinking
 
-# 🎨 UX/UI
+• Pesquisa Qualitativa
 
-Conhecimentos em:
+• Pesquisa Quantitativa
 
-- Wireframes de baixa, média e alta fidelidade
-- Prototipação
-- Design Thinking
-- Pesquisa Qualitativa
-- Pesquisa Quantitativa
-- Construção de Personas
-- Figma
-- Stitch Google
+• Construção de Personas
+
+• Figma
+
+• Stitch Google
 
 ---
 
-# ☁️ Ferramentas e Tecnologias
+## 🧠 Inteligência Artificial
 
-## Cloud
+• Criação de Agentes IA
 
-- Google Cloud Platform (GCP)
-- Amazon Web Services (AWS)
+• Engenharia de Prompt
 
-## Banco de Dados
+• Automação utilizando IA
 
-- PostgreSQL
+• Aplicação de IA em processos de qualidade
 
-## APIs
-
-- Postman
-- Insomnia
-
-## Inteligência Artificial
-
-- Criação de Agentes IA
-- Engenharia de Prompts
-- Automações utilizando IA
-- Integração de IA em fluxos de trabalho
+• Estruturação de fluxos assistidos por IA
 
 ---
 
-# 🛠️ Ferramentas de Trabalho
+## 🛠️ Ferramentas
 
-- Azure DevOps
-- Jira
-- Trello
-- GitHub
-- Postman
-- Insomnia
-- PostgreSQL
-- Figma
+### Gestão
+
+• Azure DevOps
+
+• Jira
+
+• Trello
+
+### Versionamento
+
+• Git
+
+• GitHub
+
+• Pull Requests
+
+• Branching
+
+### APIs
+
+• Postman
+
+• Insomnia
+
+### Design
+
+• Figma
 
 ---
 
-# 📚 Metodologias
+## 📚 Metodologias
 
-- Scrum
-- Kanban
-- Shift Left Testing
-- Quality Assistance
-- Melhoria Contínua
+• Scrum
 
----
+• Kanban
 
-# 📈 Objetivo deste GitHub
+• Agile
 
-Este repositório foi criado para compartilhar:
-
-✅ Projetos de Automação de Testes
-
-✅ Estudos sobre QA
-
-✅ Boas práticas de Engenharia de Software
-
-✅ Projetos de Inteligência Artificial
-
-✅ Protótipos UX/UI
-
-✅ Integrações e APIs
-
-✅ Conteúdos sobre Qualidade de Software
+• Shift Left Testing
 
 ---
 
 ## 🚀 Tecnologias
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
@@ -209,12 +262,28 @@ Este repositório foi criado para compartilhar:
 <img src="https://skillicons.dev/icons?i=gcp" />
 <img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=postman" />
 
-## 📫 Contato
-
-📌 LinkedIn:  
-https://www.linkedin.com/in/wesley-oliveira-514235b6/
+</div>
 
 ---
 
-⭐ Se algum projeto te ajudar, considere deixar uma estrela. Isso incentiva a produção de novos conteúdos e estudos.
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ons=true&theme=radical
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswesley77&layout=div>
+
+---
+
+## 📫 Contato
+
+📌 LinkedIn
+
+🔗 https://www.linkedin.com/in/wesley-oliveira-514235b6/
+
+---
+
+⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e trocar experiências.
