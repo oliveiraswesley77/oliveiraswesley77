@@ -1,3 +1,13 @@
+# <p align="center">⚠️ Bem-vindo(a) ☕🤓💻🔎 ⚠️
+
+### <p align="center">♾️ **“Mente criativa em expansão com foco em automação”** ♾️ <br><br>
+
+#### <p align="center">Vamos nos conectar? Será um prazer tê-lo em minha rede!<br><br>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/wesley-oliveira-514235b6/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https:/www.linkedin.com/in/wesley-oliveira-514235b6/"/>
+
+
 ## <p align="left"> :pushpin: Conheça-me:
 
 😉 Que satisfação gigantesca te ver por aqui!
