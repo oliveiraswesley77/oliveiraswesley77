@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/wesley-oliveira-514235b6/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https:/www.linkedin.com/in/wesley-oliveira-514235b6/"/>
 
 
-## <p align="left"> :pushpin: Conheça-me:
+## <p align="left"> :pushpin: Satisfação, eu sou Wesley:
 
 😉 Que satisfação gigantesca te ver por aqui!
 
@@ -20,16 +20,8 @@ Tenho experiência trabalhando com aplicações Web, APIs, SAP e processos corpo
 
 🎯 Principais Competências
 
-🧪 BDD (Behavior Driven Development) <br>
-• Escrita de cenários utilizando Gherkin<br>
-• Definição de critérios de aceitação<br>
-• Entedimento das regras de negócio em cenários testáveis<br>
-• Colaboração entre QA, Produto e Desenvolvimento<br>
-
 
 🔍 Tipos de Teste <br>
-
-    Conhecimento e aplicação de:
 
     Funcionais
 • Teste de Regressão<br>
@@ -44,6 +36,13 @@ Tenho experiência trabalhando com aplicações Web, APIs, SAP e processos corpo
 • Acessibilidade<br>
 • Perfomance(Conceitos)<br>
 • Segurança(Concetis)<br>
+
+
+🧪 BDD (Behavior Driven Development) <br>
+• Escrita de cenários utilizando Gherkin<br>
+• Definição de critérios de aceitação<br>
+• Entedimento das regras de negócio em cenários testáveis<br>
+• Colaboração entre QA, Produto e Desenvolvimento<br>
 
 
 🐞 Gestão de Bugs <br>
