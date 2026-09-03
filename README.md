@@ -268,13 +268,6 @@ Acredito que equipes de alta performance dependem da colaboração entre Produto
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ons=true&theme=radical
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraswesley77&layout=div>
 
 ---
 
