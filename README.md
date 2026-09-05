@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wesley-oliveira-514235b6/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-FF6B00?style=for-the-badge&logo=Linkedin&logoColor=F97316&link=https:/www.linkedin.com/in/wesley-oliveira-514235b6/"/>
-    <!-- <a href="https://www.linkedin.com/in/wesley-oliveira-514235b6/" target="_blank"><img src="https://img.shields.io/badge/-Meu currículo-FF6B00?style=for-the-badge&logo=Linkedin&logoColor=F97316&link=https:(inserir link para acessar o curriculo)/"/> -->
+    <!-- <a href="https://www.linkedin.com/in/wesley-oliveira-514235b6/" target="_blank"><img src="https://img.shields.io/badge/-Meu currículo-FF6B00?style=for-the-badge&logo=Linkedin&logoColor=F97316&link=https://(inserir link para acessar o curriculo-remover parenteses)/"/> -->
 
 ## <p align="left"> :pushpin: Satisfação, eu sou Wesley:
 
@@ -180,3 +180,4 @@ Tecnologias 🧑🏾‍💻<br>
 </p>
 
 🍀 Prazer em receber sua visita e muito obrigado!<br>
+⭐ Se algum projeto te ajudar, considere deixar uma estrela. Isso incentiva a produção de novos conteúdos e estudos.
